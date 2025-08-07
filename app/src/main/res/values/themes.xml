@@ -1,0 +1,37 @@
+<resources>
+    <!-- Base application theme -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:background">@color/background</item>
+        <item name="android:textColor">@color/textColor</item>
+        <item name="android:fontFamily">@font/poppins</item>
+    </style>
+
+    <!-- Colors -->
+    <color name="colorPrimary">#50C2C9</color>
+    <color name="colorPrimaryDark">#50C2C9</color>
+    <color name="colorAccent">#50C2C9</color>
+    <color name="background">#F0F4F3</color>
+    <color name="textColor">#000000</color>
+
+    <!-- Styles for specific components -->
+    <style name="ButtonStyle">
+        <item name="android:backgroundTint">@color/colorAccent</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:fontFamily">@font/poppins</item>
+    </style>
+
+    <style name="TextViewStyle">
+        <item name="android:textSize">16sp</item>
+        <item name="android:fontFamily">@font/poppins</item>
+    </style>
+
+    <style name="EditTextStyle">
+        <item name="android:textSize">16sp</item>
+        <item name="android:fontFamily">@font/poppins</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:textColorHint">@color/textColor</item>
+    </style>
+</resources>

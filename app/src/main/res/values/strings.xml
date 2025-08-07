@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TodoList</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_task">Task</string>
+    <string name="nav_plan">Plan</string>
+
+    <!-- Home Screen -->
+    <string name="daily_inspiration">Daily Inspiration</string>
+    <string name="task_list">Task List</string>
+    <string name="plan_list">Plan List</string>
+    <string name="view_all_tasks">View All Tasks</string>
+    <string name="view_all_plans">View All Plans</string>
+
+    <!-- Create Task -->
+    <string name="create_new_task">Create New Task</string>
+    <string name="task_title_required">Task Title *</string>
+    <string name="task_title_hint">Enter task title</string>
+    <string name="notes_optional">Notes (Optional)</string>
+    <string name="notes_hint">Add additional notes or details</string>
+    <string name="priority_level">Priority Level</string>
+    <string name="priority_low">Low</string>
+    <string name="priority_medium">Medium</string>
+    <string name="priority_high">High</string>
+    <string name="creation_date">Creation Date</string>
+
+    <!-- Create Plan -->
+    <string name="create_new_plan">Create New Plan</string>
+    <string name="plan_title_required">Plan Title *</string>
+    <string name="plan_title_hint">Enter plan title</string>
+    <string name="description_optional">Description (Optional)</string>
+    <string name="description_hint">Describe your plan in detail</string>
+    <string name="target_goal_required">Target/Goal *</string>
+    <string name="target_goal_hint">What do you want to achieve?</string>
+    <string name="orientation_optional">Orientation (Optional)</string>
+    <string name="important_dates">Important Dates</string>
+    <string name="deadline_date_required">Deadline Date *</string>
+    <string name="select_deadline_date">Select Deadline Date</string>
+
+    <!-- Common -->
+    <string name="save">Save</string>
+    <string name="back">Back</string>
+    <string name="add_task">Add Task</string>
+    <string name="add_plan">Add Plan</string>
+    <string name="today">Today</string>
+
+    <!-- Filter Options -->
+    <string name="filter_all">All</string>
+    <string name="filter_pending">Pending</string>
+    <string name="filter_completed">Completed</string>
+    <string name="filter_high_priority">High Priority</string>
+    <string name="filter_active">Active</string>
+    <string name="filter_overdue">Overdue</string>
+
+    <!-- Empty States -->
+    <string name="no_tasks_yet">No Tasks Yet</string>
+    <string name="no_plans_yet">No Plans Yet</string>
+    <string name="no_tasks_message">Tap the + button to create your first task</string>
+    <string name="no_plans_message">Tap the + button to create your first plan</string>
+
+    <!-- Plan Orientation Options -->
+    <string-array name="orientation_options">
+        <item>Personal</item>
+        <item>Professional</item>
+        <item>Educational</item>
+        <item>Health &amp; Fitness</item>
+        <item>Creative</item>
+        <item>Financial</item>
+        <item>Relationship</item>
+        <item>Other</item>
+    </string-array>
+
+    <!-- Inspirational Quotes -->
+    <string-array name="daily_quotes">
+        <item>The way to get started is to quit talking and begin doing.</item>
+        <item>Success is not final, failure is not fatal: it is the courage to continue that counts.</item>
+        <item>Your limitation—it\'s only your imagination.</item>
+        <item>Push yourself, because no one else is going to do it for you.</item>
+        <item>Great things never come from comfort zones.</item>
+        <item>Dream it. Wish it. Do it.</item>
+        <item>Success doesn\'t just find you. You have to go out and get it.</item>
+        <item>The harder you work for something, the greater you\'ll feel when you achieve it.</item>
+    </string-array>
+</resources>
